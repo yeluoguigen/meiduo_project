@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'apps.verifications',  # 验证码应用
     'apps.oauth',  # qq认证
     'apps.areas', #收货地址
+    'apps.goods',#商品分类
 
 ]
 
